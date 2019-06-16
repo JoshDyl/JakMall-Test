@@ -1,0 +1,36 @@
+<resources>
+    <string name="add_more"><u>+ Add more data</u></string>
+    <string name="app_name">JakMall</string>
+    <string name="main_title">Who\'s on Top?</string>
+    <string name="refresh"><u>Refresh</u></string>
+
+    <string-array name="id">
+        <item>129</item>
+        <item>19</item>
+        <item>370</item>
+        <item>78</item>
+        <item>461</item>
+        <item>127</item>
+        <item>253</item>
+        <item>507</item>
+        <item>462</item>
+        <item>111</item>
+    </string-array>
+    <string-array name="joke">
+        <item>Chuck Norris keeps his friends close and his enemies closer.
+            Close enough to drop them with one round house kick to the face.</item>
+        <item>In an average living room there are 1,242 objects Chuck Norris could use to kill you,
+            including the room itself.</item>
+        <item>Godzilla is a Japanese rendition of Chuck Norris\' first visit to Tokyo.</item>
+        <item>The grass is always greener on the other side, unless Chuck Norris has been there.
+            In that case the grass is most likely soaked in blood and tears.</item>
+        <item>Chuck Norris finished World of Warcraft.</item>
+        <item>Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse,
+            and football-- in that order.</item>
+        <item>Coroners refer to dead people as &quot;ABC's&quot;. Already Been Chucked.</item>
+        <item>Chuck Norris can install iTunes without installing Quicktime.</item>
+        <item>Project managers never ask Chuck Norris for estimations... ever.</item>
+        <item>Chuck Norris has a deep and abiding respect for human life...
+            unless it gets in his way.</item>
+    </string-array>
+</resources>
